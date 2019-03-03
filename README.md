@@ -1,1 +1,2 @@
 # fal-dsl
+FAL, a domain-specific language (DSL) through which we can apply a secure logging mechanism on any format of logs. Using FAL, users can define log structure, which represents the format of logs and ensures the security properties of a chosen secure logging scheme. This log structure can be later used by FAL to serve two purposes: it can be used to store system logs securely, and it will help application developers for secure application logging by generating required source code
